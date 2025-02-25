@@ -146,7 +146,7 @@ int loginAdministrador() {
 }
 
 int main() {
-          setlocale(LC_ALL,"");
+    setlocale(LC_ALL,"");
     carregarProdutos(); // Carregar produtos ao iniciar
 
     // Mensagem de boas-vindas
