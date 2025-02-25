@@ -1,4 +1,4 @@
-/// Software para gerenciamento de um Hortfrute
+/// Software para gerenciamento de um Hortifrute
 
 #include <stdio.h>
 #include <stdlib.h>
